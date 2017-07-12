@@ -9,13 +9,13 @@
   (setq op/theme 'asavonic)
   (setq op/highlight-render 'htmlize)
   (setq org-html-htmlize-output-type 'css)
-
   (setq op/category-config-alist
-        '(("blog" ;; this is the default configuration
+        '(("prog"
+           :label "Programming"
            :show-meta t
            :show-comment t
            :uri-generator op/generate-uri
-           :uri-template "/blog/%y/%m/%d/%t/"
+           :uri-template "/prog/%y/%m/%d/%t/"
            :sort-by :date     ;; how to sort the posts
            :category-index t) ;; generate category index or not
           ("index"
@@ -32,4 +32,3 @@
            :uri-template "/about/"
            :sort-by :date
            :category-index nil))))
-
