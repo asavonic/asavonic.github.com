@@ -18,6 +18,14 @@
            :uri-template "/prog/%y/%m/%d/%t/"
            :sort-by :date     ;; how to sort the posts
            :category-index t) ;; generate category index or not
+          ("jp"
+           :label "Japanese"
+           :show-meta t
+           :show-comment t
+           :uri-generator op/generate-uri
+           :uri-template "/jp/%y/%m/%d/%t/"
+           :sort-by :date
+           :category-index t)
           ("index"
            :show-meta nil
            :show-comment nil
