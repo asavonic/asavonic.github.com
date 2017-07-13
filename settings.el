@@ -18,6 +18,14 @@
            :uri-template "/prog/%y/%m/%d/%t/"
            :sort-by :date     ;; how to sort the posts
            :category-index t) ;; generate category index or not
+          ("emacs"
+           :label "Emacs"
+           :show-meta t
+           :show-comment t
+           :uri-generator op/generate-uri
+           :uri-template "/emacs/%y/%m/%d/%t/"
+           :sort-by :date
+           :category-index t)
           ("jp"
            :label "Japanese"
            :show-meta t
