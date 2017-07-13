@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Andrew&#39;s personal blog</title>
+    <link>http://asavonic.github.io</link>
+    <description>about Programming, Emacs, language study and more</description>
+    <pubDate>Чт, 13 июл 2017 22:53:02 MSK</pubDate>
+    <lastBuildDate>Чт, 13 июл 2017 22:53:02 MSK</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+  </channel>
+</rss>
