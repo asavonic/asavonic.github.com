@@ -1,0 +1,61 @@
+#+TITLE:       Remembering the Kanji in 60 days: day 1
+#+AUTHOR:      Andrew Savonichev
+#+EMAIL:       asavonic@desktop
+#+DATE:        2017-07-17 Mon
+#+URI:         /blog/%y/%m/%d/remembering-the-kanji-in-60-days-day-1
+#+KEYWORDS:    kanji, rtk, japanese
+#+TAGS:        kanji, rtk, japanese
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Problem statement, motivation and day #1 study log.
+
+Couple of months ago I decided to learn Japanese language just for fun
+and brain exercise. Seriously, why not?
+
+Without much effort I get through basic character sets (Hiragana and
+Katakana) and a very basic vocabulary. I thought it is time to dig
+into native Japanese texts and boost vocabulary by immersing myself
+into music, web sites, newspapers, etc. Result was expected - a
+complete failure. I couldn't read anything without all mighty Google
+Translator, I even couldn't navigate websites in Japanese while trying
+to find simpler texts.
+
+Kanji characters were the obvious problem: I couldn't read them,
+didn't know a translation, and I couldn't skip them and try to catch a
+general idea of a text: most of words are written in kanji.
+
+This lead me to only one decision: I need to learn them all in a
+shortest period of time possible.
+
+Why shortest? If I spend a year on this study I would most likely give
+up or just forget what I was learning a half-year ago.
+
+Target is set:
+  - 2000 kanji characters with basic translation
+  - learn all in 60 days
+  - daily repetition with Anki
+  - post updates on this blog
+
+About the last bullet: today is 17 July 2017. If you are reading this
+half-year after and there is no "Day 60" update on this blog - that
+means I failed to achieve my goal, shame on me.
+
+I would be using "Remembering the Kanji" book authored by James
+W. Heisig (later called RTK). This book is well-known for great
+associations for each kanji (so called 'stories'). Another great thing
+about RTK is that kanji characters are ordered by their 'form', and
+not a frequency. That means similarly looking kanji characters would
+be close to each other.
+
+I, personally, never liked 'stories' to remember foreign words, but
+order by form is ideal for a 'rush' study: it should teach to
+distinguish between similar kanji.
+
+Sounds pretty challenging.
+Ready, set, go!
+
+* Day 1
+That was simple: 2 lessons from RTK, total 34 kanji. With some
+handwriting practice I easily get through all of them in Anki.
+
+I'm sure the next few days would be a lot more intense.
