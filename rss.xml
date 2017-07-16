@@ -4,9 +4,16 @@
     <title>Andrew&#39;s personal blog</title>
     <link>http://asavonic.github.io</link>
     <description>about Programming, Emacs, language study and more</description>
-    <pubDate>Чт, 13 июл 2017 22:53:02 MSK</pubDate>
-    <lastBuildDate>Чт, 13 июл 2017 22:53:02 MSK</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2017 02:52:15 MSK</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2017 02:52:15 MSK</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Remembering the Kanji in 60 days: day 1</title>
+      <link>http://asavonic.github.io/blog/2017/07/17/remembering-the-kanji-in-60-days-day-1</link>
+      <description><![CDATA[Problem statement, motivation and day #1 study log.]]></description>
+      <pubDate>2017-07-17</pubDate>
+      <guid>http://asavonic.github.io/blog/2017/07/17/remembering-the-kanji-in-60-days-day-1</guid>
+    </item>
   </channel>
 </rss>
