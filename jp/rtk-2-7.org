@@ -1,0 +1,29 @@
+#+TITLE:       Remembering the Kanji in 60 days: days 2 - 7
+#+AUTHOR:      Andrew Savonichev
+#+EMAIL:       asavonic@desktop
+#+DATE:        2017-07-22 Сб
+#+URI:         /blog/%y/%m/%d/remembering-the-kanji-in-60-days-days-2-7
+#+KEYWORDS:    kanji, rtk, japanese
+#+TAGS:        kanji, rtk, japanese
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: First week review
+
+This was a first week my of Kanji studying rush. The task itself seems
+doable, although I must admit, it is a difficult trial for my
+discipline and self-organization skills.
+
+A bit of statistics gathered so far:
+
+  - days studied: 5/7
+  - kanji learned: 172
+  - average reviews per day: 45 review + 34 new
+  - average daily study time: 2 hours
+
+Looking back it is clear now that studying every day is a good
+practice, because despite an acceptable cadence of ~30 kanji per day,
+and a half-day brainstorm on Sunday (68 new kanji), I'm behind of my
+weekly target of ~200 new kanji.
+
+Anyway, the journey is just began, and I would have plenty of
+opportunities to close the gap later on.
