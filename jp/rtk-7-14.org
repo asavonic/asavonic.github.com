@@ -1,0 +1,13 @@
+#+TITLE:       Remembering the Kanji in 60 days: days 2 - 7
+#+AUTHOR:      Andrew Savonichev
+#+EMAIL:       asavonic@desktop
+#+DATE:        2017-07-22 Сб
+#+URI:         /blog/%y/%m/%d/remembering-the-kanji-in-60-days-days-2-7
+#+KEYWORDS:    kanji, rtk, japanese
+#+TAGS:        kanji, rtk, japanese
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: First week review
+
+On Thursday I had 155 kanji to repeat in Anki. Given a total number of
+235 kanji, I decided to spend a day or two reducing this number.
